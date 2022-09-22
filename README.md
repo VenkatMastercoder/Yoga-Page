@@ -1,7 +1,5 @@
 # Yoga-Page
 
-Home Page Background Image
-
 📌 CSS Colors used:
 
 📍Background color Hex Code values:
