@@ -1,4 +1,4 @@
-# Yoga-Page
+# Yoga-Page-Web-Design
 
 - Web Design For Yoga Page
 
